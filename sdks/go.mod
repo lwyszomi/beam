@@ -27,7 +27,7 @@ require (
 	cloud.google.com/go/datastore v1.6.0
 	cloud.google.com/go/pubsub v1.21.1
 	cloud.google.com/go/storage v1.22.0
-	github.com/docker/go-connections v0.4.0
+	github.com/docker/go-connections v0.5.0
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/golang/protobuf v1.5.2 // TODO(danoliveira): Fully replace this with google.golang.org/protobuf
 	github.com/google/go-cmp v0.5.8
@@ -42,7 +42,7 @@ require (
 	github.com/xitongsys/parquet-go-source v0.0.0-20220315005136-aec0fe3e777c
 	golang.org/x/net v0.0.0-20220412020605-290c469a71a5
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
-	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
+	golang.org/x/sys v0.1.0
 	golang.org/x/text v0.3.7
 	google.golang.org/api v0.76.0
 	google.golang.org/genproto v0.0.0-20220426171045-31bebdecfb46
